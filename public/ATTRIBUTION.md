@@ -1,5 +1,7 @@
 # Anatomy data attribution
 
+This hermeswisdom fork redistributes BodyParts3D-derived geometry under the original CC BY 4.0 terms. hermeswisdom does not claim authorship of BodyParts3D.
+
 BodyParts3D, © The Database Center for Life Science licensed under CC Attribution 4.0 International.
 
 - License: https://dbarchive.biosciencedbc.jp/en/bodyparts3d/lic.html (updated 2025-02-27)
